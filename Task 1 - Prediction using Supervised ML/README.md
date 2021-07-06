@@ -19,3 +19,4 @@ Submitted By -
 **Links:**
 
 * **Dataset:** https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+* **Github Repo:** https://github.com/DayeshBhure/TSF_GRIP_Internship_Tasks/tree/main/Task%201%20-%20Prediction%20using%20Supervised%20ML
