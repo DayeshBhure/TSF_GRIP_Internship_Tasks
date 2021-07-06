@@ -18,5 +18,5 @@ Submitted By -
 
 **Links:**
 
-* **Dataset:** https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+* **Dataset:** http://bit.ly/w-data
 * **Github Repo:** https://git.io/JcXAZ
