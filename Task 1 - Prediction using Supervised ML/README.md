@@ -4,6 +4,8 @@
 * **Task:** Predict the percentage of a student based on the no. of study hours.
 * **Libraries Used:** numpy, matplotlib, pandas, seaborn, scikit learn
 * **Dataset Used:** Student Scores dataset
+* **Programming Language:** Python
+* **Tool Used:** Jupyter Notebook
 
 Task completed during Data Science & Business Analytics Internship @**THE SPARKS FOUNDATION** (GRIP) (July 2021)
 
