@@ -4,6 +4,8 @@
 * **Task:** From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 * **Libraries Used:** numpy, matplotlib, pandas, scikit learn
 * **Dataset Used:** Iris Dataset
+* **Programming Language:** Python
+* **Tool Used:** Jupyter Notebook
 
 Task completed during Data Science & Business Analytics Internship @**THE SPARKS FOUNDATION** (GRIP) (July 2021)
 
