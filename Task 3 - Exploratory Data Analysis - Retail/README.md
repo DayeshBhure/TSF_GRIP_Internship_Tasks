@@ -15,7 +15,7 @@ Task completed during Data Science & Business Analytics Internship @**THE SPARKS
 Submitted By -
 **Dayesh Bhure**
 
-**Github Profile:** https://github.com/DayeshBhure
+**GitHub Profile:** https://github.com/DayeshBhure
 
 **LinkedIn Profile:** https://www.linkedin.com/in/dayesh-bhure
 
@@ -25,5 +25,6 @@ Submitted By -
 
 * **Dataset:** https://bit.ly/3i4rbWl
 * **GitHub Repository:** https://git.io/JWlQP
+* **YouTube:** https://youtu.be/_bgc2-fDMgI
 
 ---
